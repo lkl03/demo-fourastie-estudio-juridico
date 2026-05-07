@@ -1,2 +1,7 @@
-# demo-fourastie-estudio-juridico
-Demo web para Fourastie Estudio Jurídico — diseñada por eterlab.
+# Fourastie Estudio Jurídico
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
